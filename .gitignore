@@ -1,0 +1,11 @@
+# Project exclude paths
+/common/common-utils/target/
+/common/service-base/target/
+/service/service-cms/target/
+/service/service-edu/target/
+/service/service-mms/target/
+/service/service-ucenter/target/
+/service/service_order/target/
+/service/service_oss/target/
+/service/service_statistics/target/
+/service/service_vod/target/
